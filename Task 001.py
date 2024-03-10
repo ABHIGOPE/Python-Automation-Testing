@@ -1,0 +1,6 @@
+print("Hello World")
+print("Abhi","Gope","YO")
+print("Abhi","Gope","YO",sep="!",end="\p")
+print("Raw")
+print("Abhi","Gope","YO",sep="!",end="\t")
+print("Raw")
